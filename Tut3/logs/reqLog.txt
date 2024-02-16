@@ -11,3 +11,9 @@
 20240209	20:46:21	d8300030-9047-4023-9cf9-2e874355cf32	GET	undefined	/css/style.css
 20240209	20:46:25	5651a7b9-62d5-46c3-af44-3ca199094e66	GET	undefined	/
 20240209	20:46:25	ba17da84-67e8-49c2-8d18-cdf8e9caf1a4	GET	undefined	/css/style.css
+20240216	16:21:27	5be4e54c-f2f6-47dc-94cc-27b0d606f2f7	GET	undefined	/
+20240216	16:21:27	64127c7e-53f5-4b67-a253-417939576088	GET	undefined	/css/style.css
+20240216	16:21:27	f464ce4f-1923-438e-9764-d2a44bb0642a	GET	undefined	/favicon.ico
+20240216	16:21:34	fc0aaf1d-4f65-4fc9-94f5-272418fe8bb1	GET	undefined	/new-page
+20240216	16:21:34	ccd0000b-8a0d-48e1-beec-8c8e58a4fc09	GET	undefined	/css/style.css
+20240216	16:21:34	496df973-0667-4f3f-856b-63f0cab18c45	GET	undefined	/img/img1.JPG
