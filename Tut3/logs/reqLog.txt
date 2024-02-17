@@ -17,3 +17,5 @@
 20240216	16:21:34	fc0aaf1d-4f65-4fc9-94f5-272418fe8bb1	GET	undefined	/new-page
 20240216	16:21:34	ccd0000b-8a0d-48e1-beec-8c8e58a4fc09	GET	undefined	/css/style.css
 20240216	16:21:34	496df973-0667-4f3f-856b-63f0cab18c45	GET	undefined	/img/img1.JPG
+20240217	13:09:31	14be6a0b-5b3e-420f-a4b9-9b006d54ea49	GET	undefined	/employees
+20240217	13:10:01	d26f10f6-9929-47b4-8cc4-abe4476cfcef	POST	undefined	/employees
