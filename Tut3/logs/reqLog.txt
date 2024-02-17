@@ -19,3 +19,7 @@
 20240216	16:21:34	496df973-0667-4f3f-856b-63f0cab18c45	GET	undefined	/img/img1.JPG
 20240217	13:09:31	14be6a0b-5b3e-420f-a4b9-9b006d54ea49	GET	undefined	/employees
 20240217	13:10:01	d26f10f6-9929-47b4-8cc4-abe4476cfcef	POST	undefined	/employees
+20240217	13:47:59	dbb4d850-73a6-46b5-af7e-42efb885279a	POST	undefined	/register
+20240217	13:50:41	00cc24ab-1526-4d04-9efe-1424ade5c9c3	POST	undefined	/register
+20240217	13:58:08	cfb1e8ff-2615-41f3-951f-80c9eafa1fa4	POST	undefined	/auth
+20240217	13:58:43	32a4c62f-9754-4e9e-9df5-2310e38c2a89	POST	undefined	/auth
