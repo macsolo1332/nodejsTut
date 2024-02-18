@@ -46,3 +46,7 @@
 20240217	16:54:44	09b5fba3-ce4a-4aa8-aae2-af0fdb99840b	GET	undefined	/employees
 20240217	16:54:50	6a7dcf97-4773-41d4-af03-a8f8d5bfe968	GET	undefined	/employees
 20240217	16:54:58	9aa1867c-fc0e-4af5-9007-d160387dfc34	GET	undefined	/employees
+20240218	14:55:56	c17f94cf-3a12-448c-af77-671ca9f9e524	POST	undefined	/auth
+20240218	14:56:17	d6d1037f-70a8-4728-82d7-782a202bdad0	GET	undefined	/employees
+20240218	14:56:21	57a0a49a-574e-4625-abc6-0165a4b2ee24	POST	undefined	/employees
+20240218	14:56:25	b52ea661-d3d4-47b5-a296-1c50df0ec280	GET	undefined	/employees
